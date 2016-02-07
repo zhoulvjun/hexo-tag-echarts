@@ -1,0 +1,11 @@
+{
+  "name": "hexo-tag-echarts",
+  "version": "1.0.0",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "description": "A hexo tag for inserting echarts chart in your blog.",
+  "homepage": "http://zhoulvjun.github.io/2016/02/07/hexo-tag-echarts/",
+  "main": "index.js",
+  "author": "zhoulvjun"
+}
